@@ -7,4 +7,4 @@ Note: For privacy reasons, I would not be sharing details about the company and 
 About the challenge:
 Company X is constantly working to assess the risk of their applicants more accurately. Being successful
 in this objective enables Company X to better price customers and mitigate losses on their portfolio of loans. The following
-challenge asks you to work with a data set of loan repayment. It is intentionally meant to be open ended. Company X wants to see a model built for predicting the loan risk or quality (loan repayment) on a given applicant.
+challenge asks to work with a data set of loan repayment. It is intentionally meant to be open ended. Company X wants to see a model built for predicting the loan risk or quality (loan repayment) on a given applicant.
